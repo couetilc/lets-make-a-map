@@ -1,0 +1,17 @@
+{
+  "name": "lets-make-a-map",
+  "version": "1.0.0",
+  "description": "Chloromap of NY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor Couetil",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.12.2",
+    "d3-geo-projection": "^2.3.2",
+    "ndjson-cli": "^0.3.1",
+    "shapefile": "^0.6.6"
+  }
+}
